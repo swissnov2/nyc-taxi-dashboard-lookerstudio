@@ -4,7 +4,7 @@
 An interactive data visualization project analyzing New York City taxi trip records to optimize operational revenue and identify rider behavioral trends.
 
 ## 🔗 Live Interactive Dashboard
-👉 **[Click Here to View the Live Looker Studio Dashboard](https://datastudio.google.com/s/k_LdPNdlDNI)**
+👉 [**Click Here to View the Live Looker Studio Dashboard](https://datastudio.google.com/s/k_LdPNdlDNI**)
 
 ## 📊 Visualizations Practiced & Built
 1. **Time Series Line Chart**: Tracks taxi fare revenue velocity over different calendar days.
